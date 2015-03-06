@@ -1,0 +1,760 @@
+[
+  {
+    "type": "mining",
+    "name": "Darksteel Ore",
+    "slot": 3,
+    "location": "Camp Dragonhead",
+    "time": "November 11, 1111 1:00"
+  },
+  {
+    "type": "mining",
+    "name": "Pumice",
+    "slot": 1,
+    "location": "Wineport",
+    "time": "November 11, 1111 1::00"
+  },
+  {
+    "type": "mining",
+    "name": "Antumbral Rock",
+    "slot": 7,
+    "location": "Camp Drybone",
+    "time": "November 11, 1111 2:00"
+  },
+  {
+    "type": "mining",
+    "name": "Ferberite",
+    "slot": 6,
+    "location": "Ceruleum Processing Plant",
+    "time": "November 11, 1111 3:00"
+  },
+  {
+    "type": "mining",
+    "name": "Raw Topaz",
+    "slot": 7,
+    "location": "Ceruleum Processing Plant",
+    "time": "November 11, 1111 3:00"
+  },
+  {
+    "type": "mining",
+    "name": "Raw Iolite",
+    "slot": 8,
+    "location": "Ceruleum Processing Plant",
+    "time": "November 11, 1111 3:00"
+  },
+  {
+    "type": "mining",
+    "name": "Native Gold",
+    "slot": 6,
+    "location": "Black Brush Station",
+    "time": "November 11, 1111 4:00"
+  },
+  {
+    "type": "mining",
+    "name": "Platinum Ore",
+    "slot": 6,
+    "location": "Little Ala Mhigo",
+    "time": "November 11, 1111 4:00"
+  },
+  {
+    "type": "mining",
+    "name": "Raw Emerald",
+    "slot": 7,
+    "location": "Black Brush Station",
+    "time": "November 11, 1111 4:00"
+  },
+  {
+    "type": "mining",
+    "name": "Raw Diamond",
+    "slot": 8,
+    "location": "Black Brush Station",
+    "time": "November 11, 1111 4:00"
+  },
+  {
+    "type": "mining",
+    "name": "Gold Sand",
+    "slot": 2,
+    "location": "Camp Drybone",
+    "time": "November 11, 1111 5:00"
+  },
+  {
+    "type": "mining",
+    "name": "Water Cluster",
+    "slot": 5,
+    "location": "Ul'dah > Gate Sultana",
+    "time": "November 11, 1111 5:00"
+  },
+  {
+    "type": "mining",
+    "name": "Grade 3 T. Topsoil",
+    "slot": 8,
+    "location": "Ul'dah > Gate Sultana",
+    "time": "November 11, 1111 5:00"
+  },
+  {
+    "type": "mining",
+    "name": "Umbral Rock",
+    "slot": 7,
+    "location": "Camp Tranquil",
+    "time": "November 11, 1111 6:00"
+  },
+  {
+    "type": "mining",
+    "name": "Grade 3 S. Topsoil",
+    "slot": 8,
+    "location": "Camp Tranquil",
+    "time": "November 11, 1111 6:00"
+  },
+  {
+    "type": "mining",
+    "name": "Gregarious Worm [Slot 1***]",
+    "location": "Camp Drybone",
+    "time": "November 11, 1111 9:00"
+  },
+  {
+    "type": "mining",
+    "name": "Gold Ore",
+    "slot": 6,
+    "location": "Camp Drybone",
+    "time": "November 11, 1111 9:00"
+  },
+  {
+    "type": "mining",
+    "name": "Coblyn Larva",
+    "slot": 7,
+    "location": "Camp Drybone",
+    "time": "November 11, 1111 9:00"
+  },
+  {
+    "type": "mining",
+    "name": "Grade 4 Carbonized Matter",
+    "slot": 1,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 13:00"
+  },
+  {
+    "type": "mining",
+    "name": "Lightning Cluster",
+    "slot": 2,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 13:00"
+  },
+  {
+    "type": "mining",
+    "name": "Fire Cluster",
+    "slot": 3,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 13:00"
+  },
+  {
+    "type": "mining",
+    "name": "Wind Cluster",
+    "slot": 4,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 13:00"
+  },
+  {
+    "type": "mining",
+    "name": "Water Cluster",
+    "slot": 5,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 13:00"
+  },
+  {
+    "type": "mining",
+    "name": "Ice Cluster",
+    "slot": 6,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 13:00"
+  },
+  {
+    "type": "mining",
+    "name": "Earth Cluster",
+    "slot": 7,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 13:00"
+  },
+  {
+    "type": "mining",
+    "name": "Unaspected Crystal [Slot 8*]",
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 13:00"
+  },
+  {
+    "type": "mining",
+    "name": "Virgin Basilisk Egg",
+    "slot": 6,
+    "location": "Cer. Processing Plant",
+    "time": "November 11, 1111 17:00"
+  },
+  {
+    "type": "mining",
+    "name": "Volcanic Rock Salt",
+    "slot": 1,
+    "location": "Wineport",
+    "time": "November 11, 1111 17:00"
+  },
+  {
+    "type": "mining",
+    "name": "Grade 4 Carbonized Matter",
+    "slot": 1,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 17:00"
+  },
+  {
+    "type": "mining",
+    "name": "Lightning Cluster",
+    "slot": 2,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 17:00"
+  },
+  {
+    "type": "mining",
+    "name": "Fire Cluster",
+    "slot": 3,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 17:00"
+  },
+  {
+    "type": "mining",
+    "name": "Wind Cluster",
+    "slot": 4,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 17:00"
+  },
+  {
+    "type": "mining",
+    "name": "Water Cluster",
+    "slot": 5,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 17:00"
+  },
+  {
+    "type": "mining",
+    "name": "Ice Cluster",
+    "slot": 6,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 17:00"
+  },
+  {
+    "type": "mining",
+    "name": "Earth Cluster",
+    "slot": 7,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 17:00"
+  },
+  {
+    "type": "mining",
+    "name": "Unaspected Crystal [Slot 8*]",
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 17:00"
+  },
+  {
+    "type": "mining",
+    "name": "Raw Ruby",
+    "slot": 7,
+    "location": "Limsa > Tempest Gate",
+    "time": "November 11, 1111 18:00"
+  },
+  {
+    "type": "mining",
+    "name": "Raw Sapphire",
+    "slot": 8,
+    "location": "Limsa > Tempest Gate",
+    "time": "November 11, 1111 18:00"
+  },
+  {
+    "type": "mining",
+    "name": "Fire Cluster",
+    "slot": 3,
+    "location": "Limsa > Zephyr Gate",
+    "time": "November 11, 1111 19:00"
+  },
+  {
+    "type": "mining",
+    "name": "Grade 3 L.N. Topsoil",
+    "slot": 8,
+    "location": "Limsa > Zephyr Gate",
+    "time": "November 11, 1111 19:00"
+  },
+  {
+    "type": "mining",
+    "name": "Astral Rock",
+    "slot": 7,
+    "location": "Camp Dragonhead",
+    "time": "November 11, 1111 21:00"
+  },
+  {
+    "type": "mining",
+    "name": "Grade 4 Carbonized Matter",
+    "slot": 1,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 21:00"
+  },
+  {
+    "type": "mining",
+    "name": "Lightning Cluster",
+    "slot": 2,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 21:00"
+  },
+  {
+    "type": "mining",
+    "name": "Fire Cluster",
+    "slot": 3,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 21:00"
+  },
+  {
+    "type": "mining",
+    "name": "Wind Cluster",
+    "slot": 4,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 21:00"
+  },
+  {
+    "type": "mining",
+    "name": "Water Cluster",
+    "slot": 5,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 21:00"
+  },
+  {
+    "type": "mining",
+    "name": "Ice Cluster",
+    "slot": 6,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 21:00"
+  },
+  {
+    "type": "mining",
+    "name": "Earth Cluster",
+    "slot": 7,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 21:00"
+  },
+  {
+    "type": "mining",
+    "name": "Unaspected Crystal [Slot 8*]",
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 21:00"
+  },
+  {
+    "type": "botany",
+    "name": "Crawler Cocoon",
+    "slot": 4,
+    "location": "Hawthorne Hut",
+    "time": "November 11, 1111 1:00"
+  },
+  {
+    "type": "botany",
+    "name": "Grade 4 Carbonized Matter",
+    "slot": 1,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 1:00"
+  },
+  {
+    "type": "botany",
+    "name": "Lightning Cluster",
+    "slot": 2,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 1:00"
+  },
+  {
+    "type": "botany",
+    "name": "Fire Cluster",
+    "slot": 3,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 1:00"
+  },
+  {
+    "type": "botany",
+    "name": "Wind Cluster",
+    "slot": 4,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 1:00"
+  },
+  {
+    "type": "botany",
+    "name": "Water Cluster",
+    "slot": 5,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 1:00"
+  },
+  {
+    "type": "botany",
+    "name": "Ice Cluster",
+    "slot": 6,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 1:00"
+  },
+  {
+    "type": "botany",
+    "name": "Earth Cluster",
+    "slot": 7,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 1:00"
+  },
+  {
+    "type": "botany",
+    "name": "Unaspected Crystal [Slot 8*]",
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 1:00"
+  },
+  {
+    "type": "botany",
+    "name": "Fragrant Log",
+    "slot": 6,
+    "location": "Camp Tranquil",
+    "time": "November 11, 1111 2:00"
+  },
+  {
+    "type": "botany",
+    "name": "Shroud Tea Leaves",
+    "slot": 6,
+    "location": "Bentbranch Meadows",
+    "time": "November 11, 1111 2:00"
+  },
+  {
+    "type": "botany",
+    "name": "Scarlet Sap",
+    "slot": 4,
+    "location": "Fallgourd Float",
+    "time": "November 11, 1111 3:00"
+  },
+  {
+    "type": "botany",
+    "name": "Ebony Log",
+    "slot": 6,
+    "location": "Limsa > Zephyr Gate",
+    "time": "November 11, 1111 4:00"
+  },
+  {
+    "type": "botany",
+    "name": "Trillium",
+    "slot": 1,
+    "location": "Hawthorne Hut",
+    "time": "November 11, 1111 5:00"
+  },
+  {
+    "type": "botany",
+    "name": "Honey Lemon Seeds",
+    "slot": 1,
+    "location": "Costa De Sol",
+    "time": "November 11, 1111 5:00"
+  },
+  {
+    "type": "botany",
+    "name": "Honey Lemon",
+    "slot": 2,
+    "location": "Costa De Sol",
+    "time": "November 11, 1111 5:00"
+  },
+  {
+    "type": "botany",
+    "name": "Grade 4 Carbonized Matter",
+    "slot": 1,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 5:00"
+  },
+  {
+    "type": "botany",
+    "name": "Lightning Cluster",
+    "slot": 2,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 5:00"
+  },
+  {
+    "type": "botany",
+    "name": "Fire Cluster",
+    "slot": 3,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 5:00"
+  },
+  {
+    "type": "botany",
+    "name": "Wind Cluster",
+    "slot": 4,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 5:00"
+  },
+  {
+    "type": "botany",
+    "name": "Water Cluster",
+    "slot": 5,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 5:00"
+  },
+  {
+    "type": "botany",
+    "name": "Ice Cluster",
+    "slot": 6,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 5:00"
+  },
+  {
+    "type": "botany",
+    "name": "Earth Cluster",
+    "slot": 7,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 5:00"
+  },
+  {
+    "type": "botany",
+    "name": "Unaspected Crystal [Slot 8*]",
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 5:00"
+  },
+  {
+    "type": "botany",
+    "name": "Young Cie. Spinach",
+    "slot": 6,
+    "location": "Limsa > Tempest Gate",
+    "time": "November 11, 1111 6:00"
+  },
+  {
+    "type": "botany",
+    "name": "Redolent Log",
+    "slot": 6,
+    "location": "Bentbranch Meadows",
+    "time": "November 11, 1111 6:00"
+  },
+  {
+    "type": "botany",
+    "name": "Blood Orange",
+    "slot": 2,
+    "location": "Camp Bronze Lake",
+    "time": "November 11, 1111 7:00"
+  },
+  {
+    "type": "botany",
+    "name": "Bamboo Stick",
+    "slot": 6,
+    "location": "Camp Bronze Lake",
+    "time": "November 11, 1111 7:00"
+  },
+  {
+    "type": "botany",
+    "name": "La Noscean Leek",
+    "slot": 6,
+    "location": "Swiftperch",
+    "time": "November 11, 1111 8:00"
+  },
+  {
+    "type": "botany",
+    "name": "Waterfowl Feather [Random**]",
+    "location": "Swiftperch",
+    "time": "November 11, 1111 8:00"
+  },
+  {
+    "type": "botany",
+    "name": "Apricot",
+    "slot": 2,
+    "location": "Summerford Farms",
+    "time": "November 11, 1111 9:00"
+  },
+  {
+    "type": "botany",
+    "name": "Spruce Log",
+    "slot": 6,
+    "location": "Camp Dragonhead",
+    "time": "November 11, 1111 9:00"
+  },
+  {
+    "type": "botany",
+    "name": "Prickly Pineapple Seeds",
+    "slot": 1,
+    "location": "Costa de Sol",
+    "time": "November 11, 1111 9:00"
+  },
+  {
+    "type": "botany",
+    "name": "Prickly Pineapple",
+    "slot": 4,
+    "location": "Costa De Sol",
+    "time": "November 11, 1111 9:00"
+  },
+  {
+    "type": "botany",
+    "name": "Grade 4 Carbonized Matter",
+    "slot": 1,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 9:00"
+  },
+  {
+    "type": "botany",
+    "name": "Lightning Cluster",
+    "slot": 2,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 9:00"
+  },
+  {
+    "type": "botany",
+    "name": "Fire Cluster",
+    "slot": 3,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 9:00"
+  },
+  {
+    "type": "botany",
+    "name": "Wind Cluster",
+    "slot": 4,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 9:00"
+  },
+  {
+    "type": "botany",
+    "name": "Water Cluster",
+    "slot": 5,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 9:00"
+  },
+  {
+    "type": "botany",
+    "name": "Ice Cluster",
+    "slot": 6,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 9:00"
+  },
+  {
+    "type": "botany",
+    "name": "Earth Cluster",
+    "slot": 7,
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 9:00"
+  },
+  {
+    "type": "botany",
+    "name": "Unaspected Crystal [Slot 8*]",
+    "location": "Revenants Toll",
+    "time": "November 11, 1111 9:00"
+  },
+  {
+    "type": "botany",
+    "name": "Cypress Log",
+    "slot": 6,
+    "location": "Bentbranch Meadows",
+    "time": "November 11, 1111 10:00"
+  },
+  {
+    "type": "botany",
+    "name": "Vampire Plant",
+    "slot": 8,
+    "location": "Camp Dragonhead",
+    "time": "November 11, 1111 13:00"
+  },
+  {
+    "type": "botany",
+    "name": "Mazlaya Greens [Slot 2***]",
+    "location": "Camp Drybone",
+    "time": "November 11, 1111 13:00"
+  },
+  {
+    "type": "botany",
+    "name": "Black Truffle",
+    "slot": 7,
+    "location": "Camp Drybone",
+    "time": "November 11, 1111 13:00"
+  },
+  {
+    "type": "botany",
+    "name": "Dzemael Tomato Seeds",
+    "slot": 1,
+    "location": "Wineport",
+    "time": "November 11, 1111 13:00"
+  },
+  {
+    "type": "botany",
+    "name": "Dzemael Tomato",
+    "slot": 3,
+    "location": "Wineport",
+    "time": "November 11, 1111 13:00"
+  },
+  {
+    "type": "botany",
+    "name": "Rosemary",
+    "slot": 1,
+    "location": "Hawthorne Hut",
+    "time": "November 11, 1111 17:00"
+  },
+  {
+    "type": "botany",
+    "name": "Thavnairian Mistletoe",
+    "slot": 2,
+    "location": "Camp Dragonhead",
+    "time": "November 11, 1111 17:00"
+  },
+  {
+    "type": "botany",
+    "name": "Kidragora",
+    "slot": 7,
+    "location": "Hawthorne Hut",
+    "time": "November 11, 1111 21:00"
+  },
+  {
+    "type": "botany",
+    "name": "Trillium Bulb",
+    "slot": 8,
+    "location": "Hawthorne Hut",
+    "time": "November 11, 1111 21:00"
+  },
+  {
+    "type": "fishing",
+    "name": "Weather",
+    "location": " ",
+    "time": "November 11, 1111 0:00"
+  },
+  {
+    "type": "fishing",
+    "name": "Silver Sovereign [24h]",
+    "location": "Oschon's Torch",
+    "time": "November 11, 1111 0:00"
+  },
+  {
+    "type": "fishing",
+    "name": "Sunrise",
+    "location": " ",
+    "time": "November 11, 1111 6:00"
+  },
+  {
+    "type": "fishing",
+    "name": "Navigator's Brand [6-18]",
+    "location": "Brewer's Beacon",
+    "time": "November 11, 1111 6:00"
+  },
+  {
+    "type": "fishing",
+    "name": "Weather",
+    "location": " ",
+    "time": "November 11, 1111 8:00"
+  },
+  {
+    "type": "fishing",
+    "name": "Mahi-Mahi",
+    "location": "Lower La Noscea",
+    "time": "November 11, 1111 10:00"
+  },
+  {
+    "type": "fishing",
+    "name": "Weather",
+    "location": " ",
+    "time": "November 11, 1111 16:00"
+  },
+  {
+    "type": "fishing",
+    "name": "Cupfish [***]",
+    "location": "B.I. Mines - Tempest Gate",
+    "time": "November 11, 1111 17:00"
+  },
+  {
+    "type": "fishing",
+    "name": "Sunset",
+    "location": " ",
+    "time": "November 11, 1111 18:00"
+  },
+  {
+    "type": "fishing",
+    "name": "Gigant Clam [Heavy Steel Jig]",
+    "location": "South Bloodshore",
+    "time": "November 11, 1111 23:00"
+  }
+]

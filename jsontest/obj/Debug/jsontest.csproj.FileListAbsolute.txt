@@ -1,0 +1,11 @@
+c:\users\rellzy\documents\visual studio 2013\Projects\jsontest\jsontest\bin\Debug\jsontest.exe.config
+c:\users\rellzy\documents\visual studio 2013\Projects\jsontest\jsontest\bin\Debug\jsontest.exe
+c:\users\rellzy\documents\visual studio 2013\Projects\jsontest\jsontest\bin\Debug\jsontest.pdb
+c:\users\rellzy\documents\visual studio 2013\Projects\jsontest\jsontest\bin\Debug\Newtonsoft.Json.dll
+c:\users\rellzy\documents\visual studio 2013\Projects\jsontest\jsontest\bin\Debug\Newtonsoft.Json.xml
+c:\users\rellzy\documents\visual studio 2013\Projects\jsontest\jsontest\obj\Debug\jsontest.csprojResolveAssemblyReference.cache
+c:\users\rellzy\documents\visual studio 2013\Projects\jsontest\jsontest\obj\Debug\jsontest.Form1.resources
+c:\users\rellzy\documents\visual studio 2013\Projects\jsontest\jsontest\obj\Debug\jsontest.Properties.Resources.resources
+c:\users\rellzy\documents\visual studio 2013\Projects\jsontest\jsontest\obj\Debug\jsontest.csproj.GenerateResource.Cache
+c:\users\rellzy\documents\visual studio 2013\Projects\jsontest\jsontest\obj\Debug\jsontest.exe
+c:\users\rellzy\documents\visual studio 2013\Projects\jsontest\jsontest\obj\Debug\jsontest.pdb
